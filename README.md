@@ -1,1 +1,1 @@
-# Pok-mon-GO-Player-Analytics-Monetization-Optimization
+# Pokémon GO Player Analytics & Monetization Optimization
